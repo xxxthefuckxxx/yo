@@ -2,4 +2,4 @@ name = "yo"
 compatibility_date = "2026-07-10"
 
 [assets]
-directory = "./expo/web-build"
+directory = "./expo/dist"
